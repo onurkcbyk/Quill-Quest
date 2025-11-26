@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "74780698782",
+    "project_id": "quillquest-cdbf5",
+    "storage_bucket": "quillquest-cdbf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74780698782:android:9dc18afcf7ae90b2a4f38f",
+        "android_client_info": {
+          "package_name": "com.example.quill_quest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMKeJlQlukzlrrSfCO3mkgoZau6dKE85A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74780698782:android:bde72096bdc3812aa4f38f",
+        "android_client_info": {
+          "package_name": "com.example.untitled5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMKeJlQlukzlrrSfCO3mkgoZau6dKE85A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74780698782:android:248b3ae1e759911ca4f38f",
+        "android_client_info": {
+          "package_name": "com.onurk.quillquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMKeJlQlukzlrrSfCO3mkgoZau6dKE85A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
