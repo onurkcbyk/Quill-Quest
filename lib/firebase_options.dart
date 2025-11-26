@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAciY0oiIUQ-EiGwf5zKBQ_YgkO-2AKgHQ',
-    appId: '1:74780698782:web:141881b92b1032dfa4f38f',
+    apiKey: 'API',
+    appId: 'API',
     messagingSenderId: '74780698782',
     projectId: 'quillquest-cdbf5',
     authDomain: 'quillquest-cdbf5.firebaseapp.com',
@@ -50,35 +50,35 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCMKeJlQlukzlrrSfCO3mkgoZau6dKE85A',
-    appId: '1:74780698782:android:9dc18afcf7ae90b2a4f38f',
-    messagingSenderId: '74780698782',
+    apiKey: 'API',
+    appId: 'API',
+    messagingSenderId: 'API',
     projectId: 'quillquest-cdbf5',
     storageBucket: 'quillquest-cdbf5.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBRqWm4lbD1VVQGs2EDYCFhkZ9-jTFwGb4',
-    appId: '1:74780698782:ios:2acd6edd9b20e51ea4f38f',
-    messagingSenderId: '74780698782',
+    apiKey: 'API',
+    appId: 'API',
+    messagingSenderId: 'API',
     projectId: 'quillquest-cdbf5',
     storageBucket: 'quillquest-cdbf5.firebasestorage.app',
     iosBundleId: 'com.example.quillQuest',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBRqWm4lbD1VVQGs2EDYCFhkZ9-jTFwGb4',
-    appId: '1:74780698782:ios:2acd6edd9b20e51ea4f38f',
-    messagingSenderId: '74780698782',
+    apiKey: 'API',
+    appId: 'API',
+    messagingSenderId: 'API',
     projectId: 'quillquest-cdbf5',
     storageBucket: 'quillquest-cdbf5.firebasestorage.app',
     iosBundleId: 'com.example.quillQuest',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAciY0oiIUQ-EiGwf5zKBQ_YgkO-2AKgHQ',
-    appId: '1:74780698782:web:5c29f1751deef113a4f38f',
-    messagingSenderId: '74780698782',
+    apiKey: 'API',
+    appId: 'API',
+    messagingSenderId: 'API',
     projectId: 'quillquest-cdbf5',
     authDomain: 'quillquest-cdbf5.firebaseapp.com',
     storageBucket: 'quillquest-cdbf5.firebasestorage.app',
